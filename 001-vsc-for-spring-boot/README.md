@@ -4,12 +4,12 @@
 ### **VS Code Extensions**
 - Java Extension Pack: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
 - Spring Boot Extension Pack: https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack
-- Creaate a spring project: 
-    - Windows: `Ctrl+Shift+P`
-    - Mac: `Cmd+Shift+P`
 
 
 ### Project
+- Create `is-the-site-up` spring project: 
+    - Windows: `Ctrl+Shift+P`
+    - Mac: `Cmd+Shift+P`
 - Create the java class: `xyz.youdev.isthesiteup.controllers.UrlCheckController.java`
     ```java
     package xyz.youdev.isthesiteup.controllers;
